@@ -23,11 +23,7 @@ public class ProductDaoImpl {
 
 	/*
 	 * DRL
-	 * 
-	 * 1. ResultsetExtractor 
-	 * 2.RowCallbackHandler 
-	 * 3. RowMapper
-	 */
+	*/
 
 	public List<Product> findAll() {
 		
